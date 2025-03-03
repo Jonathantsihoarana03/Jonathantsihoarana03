@@ -1,11 +1,14 @@
-## Hi there 👋
+# Welcome to Jonathan Tsihoarana's Personal Repository
+## Hi there 👋, My name is Jonathan and I am a developer and data enthusiast. This repository contains a variety of projects on which I have worked, ranging from web development to data analysis. I would be pleased to hear ## from potential collaborators, so please do not hesitate to get in touch.
+
+- 🔭 I'm currently working on a machine learning model that is designed to predict insurance premiums.
 
 <!--
 **Jonathantsihoarana03/Jonathantsihoarana03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
