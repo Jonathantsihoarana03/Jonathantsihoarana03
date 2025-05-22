@@ -1,6 +1,6 @@
 # Welcome to Jonathan Tsihoarana's Personal Repository
 ## Hi there 👋, 
-### My name is Jonathan and I am a developer and data enthusiast. This repository contains a variety of projects on which I have worked, ranging from web development to data analysis. I would be pleased to hear ## from potential collaborators, so please do not hesitate to get in touch.
+### My name is Jonathan and I am a developer and data enthusiast. This repository contains a variety of projects on which I have worked, ranging from web development to data analysis. I would be pleased to hear from potential collaborators, so please do not hesitate to get in touch.
 
 - 🔭 I'm currently working on a machine learning model that is designed to predict insurance premiums.
 
